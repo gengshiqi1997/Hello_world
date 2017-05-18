@@ -8,18 +8,10 @@ a{
 	color: white;
 }
 img{
-    text-align: center;
-	margin-top: 200px;  
-    border-radius:400px;
-	position: absolute;
-	right: 290px;
+    text-align: center; 
+    border-radius:50%;
 	top: 70px;
 
-}
-img{
-	position: absolute;
-	width: 10px;
-	height: 10px;
 }
 .box1{
 border-left:1px solid white;
@@ -51,3 +43,7 @@ float:left ;
  	font-weight:bold;
  		text-align:center;
  }
+.class5{
+     text-align: center;
+
+}
